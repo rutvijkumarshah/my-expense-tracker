@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97454720471",
+    "project_id": "my-wallet-expense-tracke-3fc2c",
+    "storage_bucket": "my-wallet-expense-tracke-3fc2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97454720471:android:2c94bba5eca0b884923792",
+        "android_client_info": {
+          "package_name": "shah.rutvij.expenses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV5jnIuqNlNXXEax9uIfWmjKxV1gci5y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
